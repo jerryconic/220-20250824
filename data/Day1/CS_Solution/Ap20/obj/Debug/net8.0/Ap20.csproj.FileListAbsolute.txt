@@ -1,0 +1,14 @@
+C:\data\Day1\CS_Solution\Ap20\bin\Debug\net8.0\Ap20.exe
+C:\data\Day1\CS_Solution\Ap20\bin\Debug\net8.0\Ap20.deps.json
+C:\data\Day1\CS_Solution\Ap20\bin\Debug\net8.0\Ap20.runtimeconfig.json
+C:\data\Day1\CS_Solution\Ap20\bin\Debug\net8.0\Ap20.dll
+C:\data\Day1\CS_Solution\Ap20\bin\Debug\net8.0\Ap20.pdb
+C:\data\Day1\CS_Solution\Ap20\obj\Debug\net8.0\Ap20.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\Day1\CS_Solution\Ap20\obj\Debug\net8.0\Ap20.AssemblyInfoInputs.cache
+C:\data\Day1\CS_Solution\Ap20\obj\Debug\net8.0\Ap20.AssemblyInfo.cs
+C:\data\Day1\CS_Solution\Ap20\obj\Debug\net8.0\Ap20.csproj.CoreCompileInputs.cache
+C:\data\Day1\CS_Solution\Ap20\obj\Debug\net8.0\Ap20.dll
+C:\data\Day1\CS_Solution\Ap20\obj\Debug\net8.0\refint\Ap20.dll
+C:\data\Day1\CS_Solution\Ap20\obj\Debug\net8.0\Ap20.pdb
+C:\data\Day1\CS_Solution\Ap20\obj\Debug\net8.0\Ap20.genruntimeconfig.cache
+C:\data\Day1\CS_Solution\Ap20\obj\Debug\net8.0\ref\Ap20.dll
