@@ -1,0 +1,14 @@
+C:\data\Day1\CS_Solution\Ap03\bin\Debug\net8.0\Ap03.exe
+C:\data\Day1\CS_Solution\Ap03\bin\Debug\net8.0\Ap03.deps.json
+C:\data\Day1\CS_Solution\Ap03\bin\Debug\net8.0\Ap03.runtimeconfig.json
+C:\data\Day1\CS_Solution\Ap03\bin\Debug\net8.0\Ap03.dll
+C:\data\Day1\CS_Solution\Ap03\bin\Debug\net8.0\Ap03.pdb
+C:\data\Day1\CS_Solution\Ap03\obj\Debug\net8.0\Ap03.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\Day1\CS_Solution\Ap03\obj\Debug\net8.0\Ap03.AssemblyInfoInputs.cache
+C:\data\Day1\CS_Solution\Ap03\obj\Debug\net8.0\Ap03.AssemblyInfo.cs
+C:\data\Day1\CS_Solution\Ap03\obj\Debug\net8.0\Ap03.csproj.CoreCompileInputs.cache
+C:\data\Day1\CS_Solution\Ap03\obj\Debug\net8.0\Ap03.dll
+C:\data\Day1\CS_Solution\Ap03\obj\Debug\net8.0\refint\Ap03.dll
+C:\data\Day1\CS_Solution\Ap03\obj\Debug\net8.0\Ap03.pdb
+C:\data\Day1\CS_Solution\Ap03\obj\Debug\net8.0\Ap03.genruntimeconfig.cache
+C:\data\Day1\CS_Solution\Ap03\obj\Debug\net8.0\ref\Ap03.dll
