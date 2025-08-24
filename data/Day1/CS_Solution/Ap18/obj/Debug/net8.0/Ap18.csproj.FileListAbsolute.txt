@@ -1,0 +1,14 @@
+C:\data\Day1\CS_Solution\Ap18\bin\Debug\net8.0\Ap18.exe
+C:\data\Day1\CS_Solution\Ap18\bin\Debug\net8.0\Ap18.deps.json
+C:\data\Day1\CS_Solution\Ap18\bin\Debug\net8.0\Ap18.runtimeconfig.json
+C:\data\Day1\CS_Solution\Ap18\bin\Debug\net8.0\Ap18.dll
+C:\data\Day1\CS_Solution\Ap18\bin\Debug\net8.0\Ap18.pdb
+C:\data\Day1\CS_Solution\Ap18\obj\Debug\net8.0\Ap18.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\Day1\CS_Solution\Ap18\obj\Debug\net8.0\Ap18.AssemblyInfoInputs.cache
+C:\data\Day1\CS_Solution\Ap18\obj\Debug\net8.0\Ap18.AssemblyInfo.cs
+C:\data\Day1\CS_Solution\Ap18\obj\Debug\net8.0\Ap18.csproj.CoreCompileInputs.cache
+C:\data\Day1\CS_Solution\Ap18\obj\Debug\net8.0\Ap18.dll
+C:\data\Day1\CS_Solution\Ap18\obj\Debug\net8.0\refint\Ap18.dll
+C:\data\Day1\CS_Solution\Ap18\obj\Debug\net8.0\Ap18.pdb
+C:\data\Day1\CS_Solution\Ap18\obj\Debug\net8.0\Ap18.genruntimeconfig.cache
+C:\data\Day1\CS_Solution\Ap18\obj\Debug\net8.0\ref\Ap18.dll
