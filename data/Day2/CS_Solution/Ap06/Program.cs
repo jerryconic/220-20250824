@@ -15,10 +15,10 @@
             DrawStar();
             break;
         case "2":
-            Console.WriteLine("2.計算匯率");//ExchangeRate()
+            ExchangeRate();
             break;
         case "3":
-            Console.WriteLine("3.計算所得稅");//CalcTax()
+            CalcTax();
             break;
         case "4":
             GuessGame();
@@ -65,10 +65,66 @@ void DrawStar()
     }
 }
 
-void CalcTax()
+void ExchangeRate()
 {
+    string s, curr;
+    int nt;
+    decimal amt;
+
+    Console.Write("NT=");
+    s = Console.ReadLine();
+    nt = int.Parse(s);
+
+    Console.Write("幣別(U=USD/J=JPY/E=EUR):");
+    curr = Console.ReadLine();
+
+    switch (curr)
+    {
+        case "U":
+        case "u":
+            amt = nt / 28.93M;
+            break;
+        case "J":
+        case "j":
+            amt = nt / 0.2048M;
+            break;
+        case "E":
+        case "e":
+            amt = nt / 34.05M;
+            break;
+        default:
+            amt = 0;
+            break;
+    }
+
+    Console.WriteLine($"NT={nt:#,##0}, 可兌換外幣={amt:#,##0.00}");
 
 }
+
+
+void CalcTax()
+{
+    string s;
+    int income, tax;
+
+    Console.Write("年所得收入:");
+    s = Console.ReadLine();
+    income = int.Parse(s);
+
+    if (income <= 540000)
+        tax = (int)(income * 0.05 + 0.5);
+    else if (income <= 1210000)
+        tax = (int)(income * 0.12 - 37800 + 0.5);
+    else if (income <= 2420000)
+        tax = (int)(income * 0.2 - 134600 + 0.5);
+    else if (income <= 4530000)
+        tax = (int)(income * 0.3 - 376600 + 0.5);
+    else
+        tax = (int)(income * 0.4 - 829600 + 0.5);
+
+    Console.WriteLine($"年所得收入:{income:#,##0}, 應繳所得稅:{tax:#,##0}");
+}
+
 
 void GuessGame()
 {
