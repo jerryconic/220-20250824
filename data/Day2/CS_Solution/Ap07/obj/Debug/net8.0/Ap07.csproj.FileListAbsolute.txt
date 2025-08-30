@@ -1,0 +1,14 @@
+C:\data\Day2\CS_Solution\Ap07\bin\Debug\net8.0\Ap07.exe
+C:\data\Day2\CS_Solution\Ap07\bin\Debug\net8.0\Ap07.deps.json
+C:\data\Day2\CS_Solution\Ap07\bin\Debug\net8.0\Ap07.runtimeconfig.json
+C:\data\Day2\CS_Solution\Ap07\bin\Debug\net8.0\Ap07.dll
+C:\data\Day2\CS_Solution\Ap07\bin\Debug\net8.0\Ap07.pdb
+C:\data\Day2\CS_Solution\Ap07\obj\Debug\net8.0\Ap07.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\Day2\CS_Solution\Ap07\obj\Debug\net8.0\Ap07.AssemblyInfoInputs.cache
+C:\data\Day2\CS_Solution\Ap07\obj\Debug\net8.0\Ap07.AssemblyInfo.cs
+C:\data\Day2\CS_Solution\Ap07\obj\Debug\net8.0\Ap07.csproj.CoreCompileInputs.cache
+C:\data\Day2\CS_Solution\Ap07\obj\Debug\net8.0\Ap07.dll
+C:\data\Day2\CS_Solution\Ap07\obj\Debug\net8.0\refint\Ap07.dll
+C:\data\Day2\CS_Solution\Ap07\obj\Debug\net8.0\Ap07.pdb
+C:\data\Day2\CS_Solution\Ap07\obj\Debug\net8.0\Ap07.genruntimeconfig.cache
+C:\data\Day2\CS_Solution\Ap07\obj\Debug\net8.0\ref\Ap07.dll

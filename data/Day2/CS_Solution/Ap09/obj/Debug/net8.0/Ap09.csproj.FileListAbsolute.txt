@@ -1,0 +1,14 @@
+C:\data\Day2\CS_Solution\Ap09\bin\Debug\net8.0\Ap09.exe
+C:\data\Day2\CS_Solution\Ap09\bin\Debug\net8.0\Ap09.deps.json
+C:\data\Day2\CS_Solution\Ap09\bin\Debug\net8.0\Ap09.runtimeconfig.json
+C:\data\Day2\CS_Solution\Ap09\bin\Debug\net8.0\Ap09.dll
+C:\data\Day2\CS_Solution\Ap09\bin\Debug\net8.0\Ap09.pdb
+C:\data\Day2\CS_Solution\Ap09\obj\Debug\net8.0\Ap09.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\Day2\CS_Solution\Ap09\obj\Debug\net8.0\Ap09.AssemblyInfoInputs.cache
+C:\data\Day2\CS_Solution\Ap09\obj\Debug\net8.0\Ap09.AssemblyInfo.cs
+C:\data\Day2\CS_Solution\Ap09\obj\Debug\net8.0\Ap09.csproj.CoreCompileInputs.cache
+C:\data\Day2\CS_Solution\Ap09\obj\Debug\net8.0\Ap09.dll
+C:\data\Day2\CS_Solution\Ap09\obj\Debug\net8.0\refint\Ap09.dll
+C:\data\Day2\CS_Solution\Ap09\obj\Debug\net8.0\Ap09.pdb
+C:\data\Day2\CS_Solution\Ap09\obj\Debug\net8.0\Ap09.genruntimeconfig.cache
+C:\data\Day2\CS_Solution\Ap09\obj\Debug\net8.0\ref\Ap09.dll

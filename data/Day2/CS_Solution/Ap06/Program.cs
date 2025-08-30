@@ -1,35 +1,40 @@
-﻿for(; ; )
+﻿MainFunction();
+
+void MainFunction()
 {
-    string s;
-    Console.Write(
-@"1.畫星星
+    for (; ; )
+    {
+        string s;
+        Console.Write(
+    @"1.畫星星
 2.計算匯率
 3.計算所得稅
 4.猜數字
 0.離開
 請選擇(0~4):");
-    s = Console.ReadLine();
-    switch (s)
-    {
-        case "1":
-            DrawStar();
-            break;
-        case "2":
-            ExchangeRate();
-            break;
-        case "3":
-            CalcTax();
-            break;
-        case "4":
-            GuessGame();
-            break;
-        case "0":
-            Console.WriteLine("bye.");
-            return;
+        s = Console.ReadLine();
+        switch (s)
+        {
+            case "1":
+                DrawStar();
+                break;
+            case "2":
+                ExchangeRate();
+                break;
+            case "3":
+                CalcTax();
+                break;
+            case "4":
+                GuessGame();
+                break;
+            case "0":
+                Console.WriteLine("bye.");
+                return;
+        }
+        Console.Write("按任意鍵繼續...");
+        Console.ReadKey();
+        Console.Clear();
     }
-    Console.Write("按任意鍵繼續...");
-    Console.ReadKey();
-    Console.Clear();
 }
 
 void DrawStar()

@@ -1,0 +1,16 @@
+C:\data\Day2\Win_Solution\Ap02\bin\Debug\net8.0-windows\Ap02.exe
+C:\data\Day2\Win_Solution\Ap02\bin\Debug\net8.0-windows\Ap02.deps.json
+C:\data\Day2\Win_Solution\Ap02\bin\Debug\net8.0-windows\Ap02.runtimeconfig.json
+C:\data\Day2\Win_Solution\Ap02\bin\Debug\net8.0-windows\Ap02.dll
+C:\data\Day2\Win_Solution\Ap02\bin\Debug\net8.0-windows\Ap02.pdb
+C:\data\Day2\Win_Solution\Ap02\obj\Debug\net8.0-windows\Ap02.Form1.resources
+C:\data\Day2\Win_Solution\Ap02\obj\Debug\net8.0-windows\Ap02.csproj.GenerateResource.cache
+C:\data\Day2\Win_Solution\Ap02\obj\Debug\net8.0-windows\Ap02.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\Day2\Win_Solution\Ap02\obj\Debug\net8.0-windows\Ap02.AssemblyInfoInputs.cache
+C:\data\Day2\Win_Solution\Ap02\obj\Debug\net8.0-windows\Ap02.AssemblyInfo.cs
+C:\data\Day2\Win_Solution\Ap02\obj\Debug\net8.0-windows\Ap02.csproj.CoreCompileInputs.cache
+C:\data\Day2\Win_Solution\Ap02\obj\Debug\net8.0-windows\Ap02.dll
+C:\data\Day2\Win_Solution\Ap02\obj\Debug\net8.0-windows\refint\Ap02.dll
+C:\data\Day2\Win_Solution\Ap02\obj\Debug\net8.0-windows\Ap02.pdb
+C:\data\Day2\Win_Solution\Ap02\obj\Debug\net8.0-windows\Ap02.genruntimeconfig.cache
+C:\data\Day2\Win_Solution\Ap02\obj\Debug\net8.0-windows\ref\Ap02.dll

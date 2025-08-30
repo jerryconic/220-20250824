@@ -1,0 +1,16 @@
+C:\data\Day2\CS_Solution\Ap08\bin\Debug\net8.0\Ap08.exe
+C:\data\Day2\CS_Solution\Ap08\bin\Debug\net8.0\Ap08.deps.json
+C:\data\Day2\CS_Solution\Ap08\bin\Debug\net8.0\Ap08.runtimeconfig.json
+C:\data\Day2\CS_Solution\Ap08\bin\Debug\net8.0\Ap08.dll
+C:\data\Day2\CS_Solution\Ap08\bin\Debug\net8.0\Ap08.pdb
+C:\data\Day2\CS_Solution\Ap08\obj\Debug\net8.0\Ap08.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\Day2\CS_Solution\Ap08\obj\Debug\net8.0\Ap08.AssemblyInfoInputs.cache
+C:\data\Day2\CS_Solution\Ap08\obj\Debug\net8.0\Ap08.AssemblyInfo.cs
+C:\data\Day2\CS_Solution\Ap08\obj\Debug\net8.0\Ap08.csproj.CoreCompileInputs.cache
+C:\data\Day2\CS_Solution\Ap08\obj\Debug\net8.0\Ap08.dll
+C:\data\Day2\CS_Solution\Ap08\obj\Debug\net8.0\refint\Ap08.dll
+C:\data\Day2\CS_Solution\Ap08\obj\Debug\net8.0\Ap08.pdb
+C:\data\Day2\CS_Solution\Ap08\obj\Debug\net8.0\Ap08.genruntimeconfig.cache
+C:\data\Day2\CS_Solution\Ap08\obj\Debug\net8.0\ref\Ap08.dll
+C:\data\Day2\CS_Solution\Ap08\bin\Debug\net8.0\Ap08.xml
+C:\data\Day2\CS_Solution\Ap08\obj\Debug\net8.0\Ap08.xml
