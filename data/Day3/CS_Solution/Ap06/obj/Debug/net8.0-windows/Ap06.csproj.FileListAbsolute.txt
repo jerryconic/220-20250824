@@ -1,0 +1,16 @@
+C:\data\Day3\CS_Solution\Ap06\bin\Debug\net8.0-windows\Ap06.exe
+C:\data\Day3\CS_Solution\Ap06\bin\Debug\net8.0-windows\Ap06.deps.json
+C:\data\Day3\CS_Solution\Ap06\bin\Debug\net8.0-windows\Ap06.runtimeconfig.json
+C:\data\Day3\CS_Solution\Ap06\bin\Debug\net8.0-windows\Ap06.dll
+C:\data\Day3\CS_Solution\Ap06\bin\Debug\net8.0-windows\Ap06.pdb
+C:\data\Day3\CS_Solution\Ap06\obj\Debug\net8.0-windows\Ap06.Form1.resources
+C:\data\Day3\CS_Solution\Ap06\obj\Debug\net8.0-windows\Ap06.csproj.GenerateResource.cache
+C:\data\Day3\CS_Solution\Ap06\obj\Debug\net8.0-windows\Ap06.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\Day3\CS_Solution\Ap06\obj\Debug\net8.0-windows\Ap06.AssemblyInfoInputs.cache
+C:\data\Day3\CS_Solution\Ap06\obj\Debug\net8.0-windows\Ap06.AssemblyInfo.cs
+C:\data\Day3\CS_Solution\Ap06\obj\Debug\net8.0-windows\Ap06.csproj.CoreCompileInputs.cache
+C:\data\Day3\CS_Solution\Ap06\obj\Debug\net8.0-windows\Ap06.dll
+C:\data\Day3\CS_Solution\Ap06\obj\Debug\net8.0-windows\refint\Ap06.dll
+C:\data\Day3\CS_Solution\Ap06\obj\Debug\net8.0-windows\Ap06.pdb
+C:\data\Day3\CS_Solution\Ap06\obj\Debug\net8.0-windows\Ap06.genruntimeconfig.cache
+C:\data\Day3\CS_Solution\Ap06\obj\Debug\net8.0-windows\ref\Ap06.dll
