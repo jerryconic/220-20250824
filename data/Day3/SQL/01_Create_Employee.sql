@@ -1,4 +1,5 @@
 USE db01;
+--Ctrl + Shift + R
 
 DROP TABLE IF EXISTS dbo.Employee
 GO
@@ -9,6 +10,7 @@ emp_name nvarchar(20),
 birth_date date,
 salary int
 );
+
 
 INSERT INTO dbo.Employee(emp_id, emp_name, birth_date, salary)
 VALUES(1, 'John', '1990-1-1', 40000),
