@@ -1,0 +1,1 @@
+Scaffold-DbContext -Connection "Server=.;Database=db01;Trusted_Connection=True;TrustServerCertificate=True;" -Provider Microsoft.EntityFrameworkCore.SqlServer
