@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>JavaScript-05</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+            margin: 0;
+        }
+
+        .container {
+            text-align: center;
+            border: 2px solid #333;
+            padding: 30px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        input[type="text"] {
+            width: 200px;
+            height: 30px;
+            font-size: 16px;
+            text-align: center;
+            margin: 5px 0;
+        }
+
+        input[type="button"] {
+            width: 100px;
+            height: 35px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+
+    <script>
+        function btnOk_Click() {
+            var score = parseInt(
+                document.getElementById("txtScore").value,
+                10);
+            var txt = document.getElementById("txtResult");
+
+            if (isNaN(score)) {
+                txt.value = "Is Not a Number";
+                txt.style.backgroundColor = "red";
+                txt.style.color = "lightyellow";
+            } else if (score < 60) {
+                txt.value = "Fail";
+                txt.style.backgroundColor = "red";
+                txt.style.color = "lightyellow";
+            } else {
+                txt.value = "Pass";
+                txt.style.backgroundColor = "blue";
+                txt.style.color = "white";
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <label for="txtScore">成績:</label>
+        <input id="txtScore" type="text" /><br /><br />
+
+        <label for="txtResult">結果:</label>
+        <input id="txtResult" type="text" readonly /><br /><br />
+
+        <input type="button" value="計算" onclick="btnOk_Click()" />
+    </div>
+</body>
+</html>

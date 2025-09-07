@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>JavaScript-06</title>
+    <style>
+        /* 讓 body 使用 Flexbox 置中 */
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: #f9f9f9;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        /* 容器區塊 */
+        .container {
+            background: white;
+            border: 2px solid #4a90e2;
+            border-radius: 10px;
+            padding: 30px 40px;
+            box-shadow: 0 4px 15px rgba(74, 144, 226, 0.3);
+            text-align: center;
+            width: 320px;
+        }
+
+        /* 標籤與輸入欄放一排 */
+        label, input, select {
+            font-size: 16px;
+        }
+
+        label {
+            display: inline-block;
+            width: 100px;
+            text-align: right;
+            margin-right: 10px;
+            vertical-align: middle;
+        }
+
+        input[type="text"], select {
+            width: 160px;
+            height: 30px;
+            padding: 5px 8px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        input[type="button"] {
+            margin-top: 20px;
+            width: 100%;
+            height: 40px;
+            background-color: #4a90e2;
+            color: white;
+            font-weight: bold;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        input[type="button"]:hover {
+            background-color: #357ABD;
+        }
+    </style>
+    <script>
+        function btnOk_Click() {
+            var nt = parseInt(document.getElementById("txtNT").value, 10);
+            var curr = parseFloat(document.getElementById("selCurr").value);
+            if(isNaN(nt) || nt < 0) {
+                alert("請輸入有效的台幣金額");
+                return;
+            }
+            document.getElementById("txtAmount").value = (nt / curr).toFixed(2);
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div>
+            <label for="txtNT">台幣金額:</label>
+            <input id="txtNT" type="text" />
+        </div>
+        <br />
+        <div>
+            <label for="selCurr">兌換幣別:</label>
+            <select id="selCurr">
+                <option value="27.75">美金</option>
+                <option value="0.2856">日圓</option>
+                <option value="33.55">歐元</option>
+            </select>
+        </div>
+        <br />
+        <div>
+            <label for="txtAmount">外幣金額:</label>
+            <input id="txtAmount" type="text" readonly />
+        </div>
+        <br />
+        <input type="button" value="計算" onclick="btnOk_Click()" />
+    </div>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>JavaScript-05</title>
+    <script>
+        function btnOk_Click() {
+            var score = parseInt(
+                document.getElementById("txtScore").value,
+                10);
+            var txt = document.getElementById("txtResult");
+
+            if (isNaN(score)) {
+                txt.value = "Is Not a Number";
+                txt.style.backgroundColor = "red";
+                txt.style.color = "lightyellow";
+            } else if (score < 60) {
+                txt.value = "Fail";
+                txt.style.backgroundColor = "red";
+                txt.style.color = "lightyellow";
+            } else {
+                txt.value = "Pass";
+                txt.style.backgroundColor = "blue";
+                txt.style.color = "white";
+
+            }
+
+
+        }
+
+    </script>
+
+
+</head>
+<body>
+    成績:<input id="txtScore" type="text" /><br /><br />
+    結果:<input id="txtResult" type="text" /><br /><br />
+    <input type="button" value="計算" onclick="btnOk_Click()" />
+</body>
+</html>

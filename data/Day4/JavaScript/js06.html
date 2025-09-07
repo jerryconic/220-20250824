@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>JavaScript-06</title>
+    <script>
+        function btnOk_Click() {
+            var nt = parseInt(document.getElementById("txtNT").value,
+                10);
+            var curr = parseFloat(document.getElementById("selCurr").value);
+            document.getElementById("txtAmount").value = (nt / curr).toFixed(2);
+        }
+    </script>
+</head>
+<body>
+    台幣金額:<input id="txtNT" type="text" /><br /><br />
+    兌換幣別:<select id="selCurr">
+        <option value="27.75">美金</option>
+        <option value="0.2856">日圓</option>
+        <option value="33.55">歐元</option>
+    </select><br /><br />
+    外幣金額:<input id="txtAmount" type="text" /><br /><br />
+    <input type="button" value="計算" onclick="btnOk_Click()" />
+
+
+</body>
+</html>
