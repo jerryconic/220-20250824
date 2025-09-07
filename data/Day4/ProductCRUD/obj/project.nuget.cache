@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aTf1Lk6VzGwYmoLUeKxFtoPzan6Kf5InMEjJNBMtfcum9YMAdSYYjDaiQrjAikVGGOhG08keBo7+KPU1oF5ZAA==",
+  "dgSpecHash": "oY38S/Qeniu0b++HvY2rPpg8WPdfuB03KyCT/2yAr1yYDiSprXxD+sCvRyKwDrxF1vcYK6KNkiiGJiotRC3t8g==",
   "success": true,
-  "projectFilePath": "C:\\github-220\\220-20250824\\data\\Day4\\ProductCRUD\\ProductCRUD.csproj",
+  "projectFilePath": "C:\\data\\Day4\\ProductCRUD\\ProductCRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

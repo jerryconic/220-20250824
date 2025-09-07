@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProductCRUD
-build_property.ProjectDir = C:\github-220\220-20250824\data\Day4\ProductCRUD\
+build_property.ProjectDir = C:\data\Day4\ProductCRUD\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

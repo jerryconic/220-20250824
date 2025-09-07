@@ -1603,11 +1603,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\github-220\\220-20250824\\data\\Day4\\ProductCRUD\\ProductCRUD.csproj",
+      "projectUniqueName": "C:\\data\\Day4\\ProductCRUD\\ProductCRUD.csproj",
       "projectName": "ProductCRUD",
-      "projectPath": "C:\\github-220\\220-20250824\\data\\Day4\\ProductCRUD\\ProductCRUD.csproj",
+      "projectPath": "C:\\data\\Day4\\ProductCRUD\\ProductCRUD.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\github-220\\220-20250824\\data\\Day4\\ProductCRUD\\obj\\",
+      "outputPath": "C:\\data\\Day4\\ProductCRUD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

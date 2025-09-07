@@ -1,0 +1,38 @@
+
+        div {
+            width: 550px;
+            height: 220px;
+            border: solid 5px blue;
+            margin: 5px;
+            padding: 20px;
+            font-family: verdana;
+            font-size: 16px;
+            background-color: lightcyan;
+            color: darkblue;
+        }
+
+        span {
+            border: dashed red 4px;
+            background-color: lightyellow;
+        }
+
+     
+        #d1{
+            background-color:lightcyan;
+            color:darkblue;
+            border-color:blue;
+        }
+        #d2{
+            background-color:lightyellow;
+            color:brown;
+            border-color: darkred;
+        }
+
+        .m1{
+            border-color:red;
+            background-color:lightyellow;
+        }
+        .m2{
+            border-color:blue;
+            background-color:aqua;
+        }
