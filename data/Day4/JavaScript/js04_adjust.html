@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JavaScript-04 美化版</title>
+  <style>
+    body, html {
+      height: 100%;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #f0f0f0;
+    }
+    .calc-container {
+      padding: 20px;
+      border: 2px solid #555;
+      border-radius: 8px;
+      background-color: #fff;
+      text-align: center;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .calc-container label {
+      display: inline-block;
+      width: 40px;
+      text-align: right;
+      margin-right: 5px;
+    }
+    .calc-container input[type="text"] {
+      width: 100px;
+      padding: 5px;
+      border: 2px solid #888;
+      border-radius: 4px;
+      text-align: right;
+      margin-bottom: 10px;
+    }
+    .calc-container input[type="button"] {
+      width: 40px;
+      margin: 5px;
+      padding: 8px;
+      border: 1px solid #666;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    .calc-container input[type="button"]:hover {
+      background-color: #eee;
+    }
+  </style>
+</head>
+<body>
+  <div class="calc-container">
+    <div>
+      <label for="txtA">A =</label>
+      <input id="txtA" type="text"><br>
+      <label for="txtB">B =</label>
+      <input id="txtB" type="text"><br>
+      <label for="txtAns">Ans =</label>
+      <input id="txtAns" type="text" readonly><br>
+    </div>
+    <div>
+      <input id="btnAdd" type="button" value="+" onclick="btnAdd_Click()">
+      <input id="btnSub" type="button" value="–" onclick="btnSub_Click()">
+      <input id="btnMul" type="button" value="×" onclick="btnMul_Click()">
+      <input id="btnDiv" type="button" value="÷" onclick="btnDiv_Click()">
+    </div>
+  </div>
+
+  <script>
+    function btnAdd_Click() {
+      let a = parseFloat(document.getElementById("txtA").value);
+      let b = parseFloat(document.getElementById("txtB").value);
+      document.getElementById("txtAns").value = a + b;
+    }
+    function btnSub_Click() {
+      let a = parseFloat(document.getElementById("txtA").value);
+      let b = parseFloat(document.getElementById("txtB").value);
+      document.getElementById("txtAns").value = a - b;
+    }
+    function btnMul_Click() {
+      let a = parseFloat(document.getElementById("txtA").value);
+      let b = parseFloat(document.getElementById("txtB").value);
+      document.getElementById("txtAns").value = a * b;
+    }
+    function btnDiv_Click() {
+      let a = parseFloat(document.getElementById("txtA").value);
+      let b = parseFloat(document.getElementById("txtB").value);
+      document.getElementById("txtAns").value = a / b;
+    }
+  </script>
+</body>
+</html>

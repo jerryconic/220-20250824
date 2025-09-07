@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript-04</title>
+    <script>
+        function btnAdd_Click() {
+            let a = parseFloat(document.getElementById("txtA").value)
+            let b = parseFloat(document.getElementById("txtB").value)
+            document.getElementById("txtAns").value = a + b;
+        }
+        function btnSub_Click() {
+            let a = parseFloat(document.getElementById("txtA").value)
+            let b = parseFloat(document.getElementById("txtB").value)
+            document.getElementById("txtAns").value = a - b;
+        }
+        function btnMul_Click() {
+            let a = parseFloat(document.getElementById("txtA").value)
+            let b = parseFloat(document.getElementById("txtB").value)
+            document.getElementById("txtAns").value = a * b;
+        }
+        function btnDiv_Click() {
+            let a = parseFloat(document.getElementById("txtA").value)
+            let b = parseFloat(document.getElementById("txtB").value)
+            document.getElementById("txtAns").value = a / b;
+        }
+    </script>
+</head>
+
+<body>
+    <label for="txtA">A = </label>
+    <input id="txtA"><br>
+    <label for="txtB">B = </label>
+    <input id="txtB"><br>
+    <label for="txtAns">Ans = </label>
+    <input id="txtAns"><br>
+    <input id="btnAdd" type="button" value="+" onclick="btnAdd_Click()">
+    <input id="btnSub" type="button" value="-" onclick="btnSub_Click()">
+    <input id="btnMul" type="button" value="*" onclick="btnMul_Click()">
+    <input id="btnDiv" type="button" value="/" onclick="btnDiv_Click()">
+
+</body>
+
+</html>
